@@ -19,4 +19,9 @@ div.middle {
 	left: 50%;
 	margin-top: -100px;
 	margin-left: -200px;
+	-webkit-transition: line-height 5s, color 5s; /* Safari */
+    transition: line-height 5s, color 5s;
+}
+div.middle:hover {
+	color: black;
 }
