@@ -1,3 +1,3 @@
-#fnord.uk source code
+# fnord.uk source code
 
 https://fnord.uk/
